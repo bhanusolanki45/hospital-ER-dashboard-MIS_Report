@@ -33,10 +33,20 @@ To create an interactive dashboard that helps hospital administrators track pati
 
   
 - Nearly 50% of patients require admission (50.04% admitted vs 49.96% not admitted), highlighting the critical role of the ER as a gateway to inpatient care.
+
+  
 - Average wait time stands at 35.26 minutes, with notable daily variations — identifying peak hours and days can help reduce bottlenecks and improve patient flow.
+
+
 - Patient satisfaction averages 4.99/10, showing moderate service quality. Satisfaction tends to drop on high-volume days, suggesting a direct correlation between wait times and patient experience.
+
+  
 - Age distribution is fairly balanced across groups, with the highest patient volume in the 20-30 age bracket, followed closely by younger children (0-10) and elderly (60-80), requiring age-specific care protocols.
+
+  
 - 62% of patients experience delayed service (wait time > 30 minutes), while only 38% are seen on time — a key area for operational improvement to meet industry benchmarks.
+
+  
 - Male patients slightly outnumber females (approx. 51% vs 49%), with diverse racial representation, reflecting the inclusive community the hospital serves.]
 
 ## 📁 Project Structure
