@@ -27,6 +27,7 @@ To create an interactive dashboard that helps hospital administrators track pati
 - Conditional Formatting
 - Sparkline Trends (Daily)
 - Data Cleaning & Transformation
+- Power Query
 
 ## 📈 Key Insights
 - General Practice and Orthopedics are the busiest departments, handling the highest volume of patients (General Practice alone accounts for a significant share of referrals), indicating a need for higher staffing or resource allocation in these areas.
